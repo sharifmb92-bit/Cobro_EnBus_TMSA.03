@@ -1,0 +1,17 @@
+{
+  "name": "Bus Pay Pro Sharif",
+  "short_name": "BusPay",
+  "description": "App Profesional de Cobro Auxiliar",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#007aff",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3448/3448339.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
